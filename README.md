@@ -1,7 +1,7 @@
 1. Explore & Understand AWS
 Algorithm:
 
-Sign up for AWS
+Sign up for AWS 
 
 Visit AWS Console and create an account.
 Set up IAM roles and users with appropriate permissions.
